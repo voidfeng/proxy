@@ -1,0 +1,5 @@
+# Parallels
+DOMAIN-SUFFIX,parallels.com,REJECT
+
+# Sublime Text
+DOMAIN-SUFFIX,sublimetext.com,REJECT

@@ -73,8 +73,3 @@ DOMAIN-SUFFIX,amazonaws.com
 # 软件
 # ARC浏览器
 DOMAIN-SUFFIX,arc.net
-
-# ===== 阻止内容 =====
-# Parallels
-DOMAIN-SUFFIX,parallels.com,REJECT
-DOMAIN-SUFFIX,sublimetext.com,REJECT
