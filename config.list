@@ -1,0 +1,75 @@
+# ===== 自定义配置 =====
+# Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+# AList 文档
+DOMAIN-SUFFIX,nn.ci
+# Brew
+DOMAIN-SUFFIX,brew.sh
+# chatGPT AI
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openai.com
+# Claude AI
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercom.io
+# Copilot AI
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,bingapis.com
+# Ollama
+DOMAIN-SUFFIX,huggingface.co
+# macked
+DOMAIN-SUFFIX,macked.homes
+# appstorrent.ru
+DOMAIN-SUFFIX,userapi.com
+# ip 相关
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,whoer.com
+DOMAIN-SUFFIX,sms-activate.org # 短信验证码
+DOMAIN-SUFFIX,sms-activate.io # 短信验证码
+# spotify
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,scdn.co
+# 论坛
+# DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,v2ex.com
+# VPN
+DOMAIN-SUFFIX,naiyovpn.com
+DOMAIN-SUFFIX,nysubs.xyz
+
+# Cursor
+DOMAIN-SUFFIX,cursor.sh
+# ===== 开发 =====
+DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,vueschool.io
+DOMAIN-SUFFIX,element-plus.org
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,unocss.dev
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,strapi.io
+DOMAIN-SUFFIX,strapidemo.com
+DOMAIN-SUFFIX,zerossl.com
+DOMAIN-SUFFIX,vscode-cdn.net
+# 公共CDN和公共API
+DOMAIN-SUFFIX,sstatic.net
+DOMAIN-SUFFIX,back4app.com
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,cdpn.io
+DOMAIN-SUFFIX,filestackapi.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,amazonaws.com
+# 软件
+# ARC浏览器
+DOMAIN-SUFFIX,arc.net
