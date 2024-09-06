@@ -47,8 +47,6 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
 
-# Cursor
-DOMAIN-SUFFIX,cursor.sh
 # ===== 开发 =====
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,vueschool.io
@@ -62,6 +60,13 @@ DOMAIN-SUFFIX,strapi.io
 DOMAIN-SUFFIX,strapidemo.com
 DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,vscode-cdn.net
+
+# Cursor
+DOMAIN-SUFFIX,cursor.sh
+
+# CodeIum
+DOMAIN-SUFFIX,codeium.com
+
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,back4app.com
