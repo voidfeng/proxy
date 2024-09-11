@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,scdn.co
 # 论坛
 # DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,v2ex.com
+# 社交
+DOMAIN-SUFFIX,x.com
 # VPN
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
