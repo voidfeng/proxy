@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,v2ex.com
 # 社交
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
 # VPN
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
