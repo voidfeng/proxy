@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,codeium.com
 
 # RSSHub
 DOMAIN-SUFFIX,rsshub.app
+DOMAIN-SUFFIX,follow.is
 
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
