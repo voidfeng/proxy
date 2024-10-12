@@ -1,4 +1,8 @@
 # ===== 自定义配置 =====
+# Google
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,google.com
+
 # Reddit
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
