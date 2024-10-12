@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,scdn.co
 # 论坛
-# DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,v2ex.com
 # 社交
 DOMAIN-SUFFIX,x.com
@@ -63,6 +63,9 @@ DOMAIN-SUFFIX,strapi.io
 DOMAIN-SUFFIX,strapidemo.com
 DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,vscode-cdn.net
+
+# Github
+DOMAIN-SUFFIX,github.com
 
 # Cursor
 DOMAIN-SUFFIX,cursor.sh
