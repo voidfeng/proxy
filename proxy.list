@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 
 # Github
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
 
 # Cursor
 DOMAIN-SUFFIX,cursor.sh
