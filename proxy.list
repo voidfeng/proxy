@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
 # AList 文档
 DOMAIN-SUFFIX,nn.ci
 # Brew
@@ -70,6 +71,7 @@ DOMAIN-SUFFIX,vscode-cdn.net
 
 # Github
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
 # Cursor
