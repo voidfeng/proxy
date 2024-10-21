@@ -39,8 +39,10 @@ DOMAIN-SUFFIX,userapi.com
 # ip 相关
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,whoer.com
-DOMAIN-SUFFIX,sms-activate.org # 短信验证码
-DOMAIN-SUFFIX,sms-activate.io # 短信验证码
+# 短信验证码
+DOMAIN-SUFFIX,sms-activate.org
+# 短信验证码
+DOMAIN-SUFFIX,sms-activate.io
 # spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
