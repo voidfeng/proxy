@@ -47,8 +47,9 @@ DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,scdn.co
 # 论坛
 DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,v2ex.com # v2
-DOMAIN-SUFFIX,imgur.com # v2
+# v2
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,imgur.com
 # 社交
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
