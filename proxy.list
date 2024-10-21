@@ -2,6 +2,7 @@
 # Google
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 # Reddit
 DOMAIN-SUFFIX,reddit.com
