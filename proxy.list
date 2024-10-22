@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,imgur.com
 # 社交
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
+# wikipedia
+DOMAIN-SUFFIX,wikipedia.org
 # VPN
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
