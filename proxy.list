@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
 # wikipedia
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
 # VPN
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
