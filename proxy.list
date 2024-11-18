@@ -105,3 +105,7 @@ DOMAIN-SUFFIX,amazonaws.com
 # 软件
 # ARC浏览器
 DOMAIN-SUFFIX,arc.net
+
+# Notion
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,notion.so
