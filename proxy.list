@@ -1,6 +1,7 @@
 # ===== 自定义配置 =====
 # Google
 DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleusercontent.com
 
