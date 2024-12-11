@@ -95,6 +95,9 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,follow.is
 
+# codepen
+DOMAIN-SUFFIX,codepen.io
+
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,back4app.com
