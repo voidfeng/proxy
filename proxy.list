@@ -98,6 +98,9 @@ DOMAIN-SUFFIX,follow.is
 # codepen
 DOMAIN-SUFFIX,codepen.io
 
+# tinymce
+DOMAIN-SUFFIX,tiny.cloud
+
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,back4app.com
