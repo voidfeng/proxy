@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bingapis.com
+# perplexity AI
+DOMAIN-SUFFIX,perplexity.ai
 # Ollama
 DOMAIN-SUFFIX,huggingface.co
 # macked
