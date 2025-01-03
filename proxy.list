@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,huggingface.co
 # macked
 DOMAIN-SUFFIX,macked.homes
+DOMAIN-SUFFIX,macked.app
 # appstorrent.ru
 DOMAIN-SUFFIX,userapi.com
 # ip 相关
