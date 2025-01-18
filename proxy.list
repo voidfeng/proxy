@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,filestackapi.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,sourceforge.net
 # 软件
 # ARC浏览器
 DOMAIN-SUFFIX,arc.net
