@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,vscode-cdn.net
 
 # Github
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
