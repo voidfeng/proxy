@@ -84,6 +84,9 @@ DOMAIN-SUFFIX,strapi.io
 DOMAIN-SUFFIX,strapidemo.com
 DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,vscode-cdn.net
+
+# docker
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
 
 # Github
@@ -109,9 +112,6 @@ DOMAIN-SUFFIX,codepen.io
 
 # tinymce
 DOMAIN-SUFFIX,tiny.cloud
-
-# docker
-DOMAIN-SUFFIX,docker.io
 
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
