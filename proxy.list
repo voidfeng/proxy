@@ -84,7 +84,9 @@ DOMAIN-SUFFIX,strapi.io
 DOMAIN-SUFFIX,strapidemo.com
 DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,vscode-cdn.net
+# TRAE 编辑器
 DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,byteoversea.com
 
 # docker
 DOMAIN-SUFFIX,docker.io
