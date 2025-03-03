@@ -117,6 +117,10 @@ DOMAIN-SUFFIX,codepen.io
 # tinymce
 DOMAIN-SUFFIX,tiny.cloud
 
+# Ionic
+DOMAIN-SUFFIX,ionic.io
+DOMAIN-SUFFIX,ionicframework.com
+
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,back4app.com
