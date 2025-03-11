@@ -121,6 +121,9 @@ DOMAIN-SUFFIX,tiny.cloud
 DOMAIN-SUFFIX,ionic.io
 DOMAIN-SUFFIX,ionicframework.com
 
+# Cloudflare
+DOMAIN-SUFFIX,workers.dev
+
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,back4app.com
