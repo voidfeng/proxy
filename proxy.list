@@ -137,6 +137,10 @@ DOMAIN-SUFFIX,sourceforge.net
 # ARC浏览器
 DOMAIN-SUFFIX,arc.net
 
+# Surf浏览器
+DOMAIN-SUFFIX,deta.space
+DOMAIN-SUFFIX,deta.surf
+
 # Notion
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,notion.so
