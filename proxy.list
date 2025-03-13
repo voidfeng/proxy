@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 # wikipedia
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
