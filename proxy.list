@@ -34,6 +34,20 @@ DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bingapis.com
 # perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
+
+# You AI
+DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,stytch.com
+DOMAIN-SUFFIX,useparagon.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,plausible.io
+DOMAIN-SUFFIX,go2sdk.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,profitwell.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,clarity.ms
+
 # Ollama
 DOMAIN-SUFFIX,huggingface.co
 # macked
