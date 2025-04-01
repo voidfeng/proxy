@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
 
 # Reddit
 DOMAIN-SUFFIX,reddit.com
