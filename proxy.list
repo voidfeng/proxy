@@ -87,6 +87,9 @@ DOMAIN-SUFFIX,wikimedia.org
 # VPN
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
+# 域名商
+DOMAIN-SUFFIX,namecheap.com
+DOMAIN-SUFFIX,godaddy.com
 
 # ===== 开发 =====
 DOMAIN-SUFFIX,vuejs.org
