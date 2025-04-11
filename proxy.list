@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,nysubs.xyz
 # 域名商
 DOMAIN-SUFFIX,namecheap.com
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,cloudfront.net
 
 # ===== 开发 =====
 DOMAIN-SUFFIX,vuejs.org
