@@ -112,6 +112,9 @@ DOMAIN-SUFFIX,codesandbox
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,byteoversea.com
 
+# zed
+DOMAIN-SUFFIX,zed.dev
+
 # docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
