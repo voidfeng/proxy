@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,braze.com
 
+#Dify
+DOMAIN-SUFFIX,dify.ai
+
 # Ollama
 DOMAIN-SUFFIX,huggingface.co
 # macked
