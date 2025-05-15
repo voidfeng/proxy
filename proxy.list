@@ -112,7 +112,15 @@ DOMAIN-SUFFIX,codesandbox
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,byteoversea.com
 
-# zed
+# Cursor
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,workos.com
+
+# windsurf
+DOMAIN-SUFFIX,windsurf.com
+
+# Zed 编辑器
 DOMAIN-SUFFIX,zed.dev
 
 # docker
@@ -124,11 +132,6 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
-
-# Cursor
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,workos.com
 
 # CodeIum
 DOMAIN-SUFFIX,codeium.com
