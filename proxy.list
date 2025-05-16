@@ -52,7 +52,10 @@ DOMAIN-SUFFIX,braze.com
 
 #Dify
 DOMAIN-SUFFIX,dify.ai
+
+#Stripe
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
 
 # Ollama
 DOMAIN-SUFFIX,huggingface.co
