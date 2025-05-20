@@ -171,12 +171,16 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,unpkg.com
 # 软件
-# ARC浏览器
+# ARC 浏览器
 DOMAIN-SUFFIX,arc.net
 
-# Surf浏览器
+# Surf 浏览器
 DOMAIN-SUFFIX,deta.space
 DOMAIN-SUFFIX,deta.surf
+
+# Dia 浏览器
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,segment.io
 
 # Notion
 DOMAIN-SUFFIX,notionusercontent.com
