@@ -58,7 +58,7 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 
-# Ollama
+# Ollama AI
 DOMAIN-SUFFIX,huggingface.co
 # macked
 DOMAIN-SUFFIX,macked.homes
@@ -188,3 +188,6 @@ DOMAIN-SUFFIX,segment.io
 # Notion
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,notion.so
+
+# 服务器
+DOMAIN-SUFFIX,nube.sh
