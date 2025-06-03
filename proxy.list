@@ -134,6 +134,9 @@ DOMAIN-SUFFIX,windsurf.com
 # Zed 编辑器
 DOMAIN-SUFFIX,zed.dev
 
+# Augment Code
+DOMAIN-SUFFIX,augmentcode.com
+
 # docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
