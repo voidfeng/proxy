@@ -1,198 +1,199 @@
-# Google
-chrome.com
-chromium.org
-google.com
-googleapis.com
-googleusercontent.com
-gstatic.com
+payload:
+  # Google
+  - 'chrome.com'
+  - 'chromium.org'
+  - 'google.com'
+  - 'googleapis.com'
+  - 'googleusercontent.com'
+  - 'gstatic.com'
 
-# Reddit
-reddit.com
-redditstatic.com
-redditmedia.com
-redd.it
-# AList 文档
-nn.ci
-# Brew
-brew.sh
-# chatGPT AI
-chatgpt.com
-oaistatic.com
-openai.com
-# Claude AI
-anthropic.com
-claude.ai
-intercomcdn.com
-intercomcdn.com
-intercomassets.com
-intercom.io
-# Copilot AI
-copilot.microsoft.com
-sydney.bing.com
-challenges.cloudflare.com
-challenges.cloudflare.com
-sydney.bing.com
-bingapis.com
-# perplexity AI
-perplexity.ai
+  # Reddit
+  - 'reddit.com'
+  - 'redditstatic.com'
+  - 'redditmedia.com'
+  - 'redd.it'
+  # AList 文档
+  - 'nn.ci'
+  # Brew
+  - 'brew.sh'
+  # chatGPT AI
+  - 'chatgpt.com'
+  - 'oaistatic.com'
+  - 'openai.com'
+  # Claude AI
+  - 'anthropic.com'
+  - 'claude.ai'
+  - 'intercomcdn.com'
+  - 'intercomcdn.com'
+  - 'intercomassets.com'
+  - 'intercom.io'
+  # Copilot AI
+  - 'copilot.microsoft.com'
+  - 'sydney.bing.com'
+  - 'challenges.cloudflare.com'
+  - 'challenges.cloudflare.com'
+  - 'sydney.bing.com'
+  - 'bingapis.com'
+  # perplexity AI
+  - 'perplexity.ai'
 
-# You AI
-you.com
-osano.com
-stytch.com
-useparagon.com
-launchdarkly.com
-plausible.io
-go2sdk.com
-licdn.com
-profitwell.com
-appsflyer.com
-clarity.ms
-braze.com
+  # You AI
+  - 'you.com'
+  - 'osano.com'
+  - 'stytch.com'
+  - 'useparagon.com'
+  - 'launchdarkly.com'
+  - 'plausible.io'
+  - 'go2sdk.com'
+  - 'licdn.com'
+  - 'profitwell.com'
+  - 'appsflyer.com'
+  - 'clarity.ms'
+  - 'braze.com'
 
-#Dify
-dify.ai
+  #Dify
+  - 'dify.ai'
 
-#Stripe
-stripe.com
-stripecdn.com
+  #Stripe
+  - 'stripe.com'
+  - 'stripecdn.com'
 
-# Ollama AI
-huggingface.co
-# macked
-macked.homes
-macked.app
-macked.online
-macked.store
-# appstorrent.ru
-userapi.com
-# ip 相关
-myip.com
-whoer.com
-# 短信验证码
-sms-activate.org
-# 短信验证码
-sms-activate.io
-# spotify
-spotify.com
-spotifycdn.com
-scdn.co
-# 论坛
-linux.do
-nodeseek.com
-# v2
-v2ex.com
-imgur.com
-# 社交
-x.com
-twimg.com
-discord.gg
-x.ai
-grok.com
-# wikipedia
-wikipedia.org
-wikimedia.org
-# VPN
-naiyovpn.com
-nysubs.xyz
-sagernet.org
-# 域名商
-namecheap.com
-godaddy.com
-cloudfront.net
+  # Ollama AI
+  - 'huggingface.co'
+  # macked
+  - 'macked.homes'
+  - 'macked.app'
+  - 'macked.online'
+  - 'macked.store'
+  # appstorrent.ru
+  - 'userapi.com'
+  # ip 相关
+  - 'myip.com'
+  - 'whoer.com'
+  # 短信验证码
+  - 'sms-activate.org'
+  # 短信验证码
+  - 'sms-activate.io'
+  # spotify
+  - 'spotify.com'
+  - 'spotifycdn.com'
+  - 'scdn.co'
+  # 论坛
+  - 'linux.do'
+  - 'nodeseek.com'
+  # v2
+  - 'v2ex.com'
+  - 'imgur.com'
+  # 社交
+  - 'x.com'
+  - 'twimg.com'
+  - 'discord.gg'
+  - 'x.ai'
+  - 'grok.com'
+  # wikipedia
+  - 'wikipedia.org'
+  - 'wikimedia.org'
+  # VPN
+  - 'naiyovpn.com'
+  - 'nysubs.xyz'
+  - 'sagernet.org'
+  # 域名商
+  - 'namecheap.com'
+  - 'godaddy.com'
+  - 'cloudfront.net'
 
-# ===== 开发 =====
-vuejs.org
-vueschool.io
-element-plus.org
-element-plus.run
-npmjs.org
-npmjs.com
-unocss.dev
-netlify.app
-pages.dev
-strapi.io
-strapidemo.com
-zerossl.com
-vscode-cdn.net
-codesandbox
-serv00.net
-oxc.rs
-# TRAE 编辑器
-trae.ai
-byteoversea.com
+  # ===== 开发 =====
+  - 'vuejs.org'
+  - 'vueschool.io'
+  - 'element-plus.org'
+  - 'element-plus.run'
+  - 'npmjs.org'
+  - 'npmjs.com'
+  - 'unocss.dev'
+  - 'netlify.app'
+  - 'pages.dev'
+  - 'strapi.io'
+  - 'strapidemo.com'
+  - 'zerossl.com'
+  - 'vscode-cdn.net'
+  - 'codesandbox'
+  - 'serv00.net'
+  - 'oxc.rs'
+  # TRAE 编辑器
+  - 'trae.ai'
+  - 'byteoversea.com'
 
-# Cursor
-cursor.sh
-cursor.com
-workos.com
-cursorapi.com
+  # Cursor
+  - 'cursor.sh'
+  - 'cursor.com'
+  - 'workos.com'
+  - 'cursorapi.com'
 
-# windsurf
-windsurf.com
+  # windsurf
+  - 'windsurf.com'
 
-# Zed 编辑器
-zed.dev
+  # Zed 编辑器
+  - 'zed.dev'
 
-# Augment Code
-augmentcode.com
+  # Augment Code
+  - 'augmentcode.com'
 
-# docker
-docker.io
-docker.com
+  # docker
+  - 'docker.io'
+  - 'docker.com'
 
-# Github
-github.io
-github.com
-githubassets.com
-githubusercontent.com
+  # Github
+  - 'github.io'
+  - 'github.com'
+  - 'githubassets.com'
+  - 'githubusercontent.com'
 
-# CodeIum
-codeium.com
-codeiumdata.com
+  # CodeIum
+  - 'codeium.com'
+  - 'codeiumdata.com'
 
-# RSSHub
-rsshub.app
-follow.is
+  # RSSHub
+  - 'rsshub.app'
+  - 'follow.is'
 
-# codepen
-codepen.io
+  # codepen
+  - 'codepen.io'
 
-# tinymce
-tiny.cloud
+  # tinymce
+  - 'tiny.cloud'
 
-# Ionic
-ionic.io
-ionicframework.com
+  # Ionic
+  - 'ionic.io'
+  - 'ionicframework.com'
 
-# Cloudflare
-workers.dev
+  # Cloudflare
+  - 'workers.dev'
 
-# 公共CDN和公共API
-sstatic.net
-back4app.com
-ghproxy.com
-cdpn.io
-filestackapi.com
-jsdelivr.net
-amazonaws.com
-sourceforge.net
-unpkg.com
-# 软件
-# ARC 浏览器
-arc.net
+  # 公共CDN和公共API
+  - 'sstatic.net'
+  - 'back4app.com'
+  - 'ghproxy.com'
+  - 'cdpn.io'
+  - 'filestackapi.com'
+  - 'jsdelivr.net'
+  - 'amazonaws.com'
+  - 'sourceforge.net'
+  - 'unpkg.com'
+  # 软件
+  # ARC 浏览器
+  - 'arc.net'
 
-# Surf 浏览器
-deta.space
-deta.surf
+  # Surf 浏览器
+  - 'deta.space'
+  - 'deta.surf'
 
-# Dia 浏览器
-diabrowser.engineering
-segment.io
+  # Dia 浏览器
+  - 'diabrowser.engineering'
+  - 'segment.io'
 
-# Notion
-notionusercontent.com
-notion.so
+  # Notion
+  - 'notionusercontent.com'
+  - 'notion.so'
 
-# 服务器
-nube.sh
+  # 服务器
+  - 'nube.sh'
