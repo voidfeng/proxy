@@ -1,154 +1,198 @@
+# Google
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
 
-chrome.com
-chromium.org
-google.com
-googleapis.com
-googleusercontent.com
-gstatic.com
+# Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+# AList 文档
+DOMAIN-SUFFIX,nn.ci
+# Brew
+DOMAIN-SUFFIX,brew.sh
+# chatGPT AI
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openai.com
+# Claude AI
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercom.io
+# Copilot AI
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,bingapis.com
+# perplexity AI
+DOMAIN-SUFFIX,perplexity.ai
 
-reddit.com
-redditstatic.com
-redditmedia.com
-redd.it
-nn.ci
-brew.sh
-chatgpt.com
-oaistatic.com
-openai.com
-anthropic.com
-claude.ai
-intercomcdn.com
-intercomcdn.com
-intercomassets.com
-intercom.io
-copilot.microsoft.com
-sydney.bing.com
-challenges.cloudflare.com
-challenges.cloudflare.com
-sydney.bing.com
-bingapis.com
-perplexity.ai
-
-you.com
-osano.com
-stytch.com
-useparagon.com
-launchdarkly.com
-plausible.io
-go2sdk.com
-licdn.com
-profitwell.com
-appsflyer.com
-clarity.ms
-braze.com
+# You AI
+DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,stytch.com
+DOMAIN-SUFFIX,useparagon.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,plausible.io
+DOMAIN-SUFFIX,go2sdk.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,profitwell.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,braze.com
 
 #Dify
-dify.ai
+DOMAIN-SUFFIX,dify.ai
 
 #Stripe
-stripe.com
-stripecdn.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
 
-huggingface.co
-macked.homes
-macked.app
-macked.online
-macked.store
-userapi.com
-myip.com
-whoer.com
-sms-activate.org
-sms-activate.io
-spotify.com
-spotifycdn.com
-scdn.co
-linux.do
-nodeseek.com
-v2ex.com
-imgur.com
-x.com
-twimg.com
-discord.gg
-x.ai
-grok.com
-wikipedia.org
-wikimedia.org
-naiyovpn.com
-nysubs.xyz
-namecheap.com
-godaddy.com
-cloudfront.net
+# Ollama AI
+DOMAIN-SUFFIX,huggingface.co
+# macked
+DOMAIN-SUFFIX,macked.homes
+DOMAIN-SUFFIX,macked.app
+DOMAIN-SUFFIX,macked.online
+DOMAIN-SUFFIX,macked.store
+# appstorrent.ru
+DOMAIN-SUFFIX,userapi.com
+# ip 相关
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,whoer.com
+# 短信验证码
+DOMAIN-SUFFIX,sms-activate.org
+# 短信验证码
+DOMAIN-SUFFIX,sms-activate.io
+# spotify
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,scdn.co
+# 论坛
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,nodeseek.com
+# v2
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,imgur.com
+# 社交
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+# wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
+# VPN
+DOMAIN-SUFFIX,naiyovpn.com
+DOMAIN-SUFFIX,nysubs.xyz
+DOMAIN-SUFFIX,sagernet.org
+# 域名商
+DOMAIN-SUFFIX,namecheap.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,cloudfront.net
 
-vuejs.org
-vueschool.io
-element-plus.org
-element-plus.run
-npmjs.org
-npmjs.com
-unocss.dev
-netlify.app
-pages.dev
-strapi.io
-strapidemo.com
-zerossl.com
-vscode-cdn.net
-codesandbox
-serv00.net
-oxc.rs
-trae.ai
-byteoversea.com
+# ===== 开发 =====
+DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,vueschool.io
+DOMAIN-SUFFIX,element-plus.org
+DOMAIN-SUFFIX,element-plus.run
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,unocss.dev
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,strapi.io
+DOMAIN-SUFFIX,strapidemo.com
+DOMAIN-SUFFIX,zerossl.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,codesandbox
+DOMAIN-SUFFIX,serv00.net
+DOMAIN-SUFFIX,oxc.rs
+# TRAE 编辑器
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,byteoversea.com
 
-cursor.sh
-cursor.com
-workos.com
-cursorapi.com
+# Cursor
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,cursorapi.com
 
-windsurf.com
+# windsurf
+DOMAIN-SUFFIX,windsurf.com
 
-zed.dev
+# Zed 编辑器
+DOMAIN-SUFFIX,zed.dev
 
-augmentcode.com
+# Augment Code
+DOMAIN-SUFFIX,augmentcode.com
 
-docker.io
-docker.com
+# docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 
-github.io
-github.com
-githubassets.com
-githubusercontent.com
+# Github
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 
-codeium.com
+# CodeIum
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
 
-rsshub.app
-follow.is
+# RSSHub
+DOMAIN-SUFFIX,rsshub.app
+DOMAIN-SUFFIX,follow.is
 
-codepen.io
+# codepen
+DOMAIN-SUFFIX,codepen.io
 
-tiny.cloud
+# tinymce
+DOMAIN-SUFFIX,tiny.cloud
 
-ionic.io
-ionicframework.com
+# Ionic
+DOMAIN-SUFFIX,ionic.io
+DOMAIN-SUFFIX,ionicframework.com
 
-workers.dev
+# Cloudflare
+DOMAIN-SUFFIX,workers.dev
 
-sstatic.net
-back4app.com
-ghproxy.com
-cdpn.io
-filestackapi.com
-jsdelivr.net
-amazonaws.com
-sourceforge.net
-unpkg.com
-arc.net
+# 公共CDN和公共API
+DOMAIN-SUFFIX,sstatic.net
+DOMAIN-SUFFIX,back4app.com
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,cdpn.io
+DOMAIN-SUFFIX,filestackapi.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,unpkg.com
+# 软件
+# ARC 浏览器
+DOMAIN-SUFFIX,arc.net
 
-deta.space
-deta.surf
+# Surf 浏览器
+DOMAIN-SUFFIX,deta.space
+DOMAIN-SUFFIX,deta.surf
 
-diabrowser.engineering
-segment.io
+# Dia 浏览器
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,segment.io
 
-notionusercontent.com
-notion.so
+# Notion
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,notion.so
 
-nube.sh
+# 服务器
+DOMAIN-SUFFIX,nube.sh
