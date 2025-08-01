@@ -143,6 +143,9 @@ payload:
   # Augment Code
   - DOMAIN-SUFFIX,augmentcode.com
 
+  # CodeBuddy
+  - DOMAIN-SUFFIX,codebuddy.ai
+
   # docker
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.com
