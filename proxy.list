@@ -12,10 +12,13 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redd.it
+
 # AList 文档
 DOMAIN-SUFFIX,nn.ci
+
 # Brew
 DOMAIN-SUFFIX,brew.sh
+
 # chatGPT AI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -36,7 +39,6 @@ DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bingapis.com
 # perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
-
 # You AI
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,osano.com
@@ -139,6 +141,9 @@ DOMAIN-SUFFIX,zed.dev
 
 # Augment Code
 DOMAIN-SUFFIX,augmentcode.com
+
+# CodeBuddy 编辑器
+DOMAIN-SUFFIX,codebuddy.ai
 
 # docker
 DOMAIN-SUFFIX,docker.io
