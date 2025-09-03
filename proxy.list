@@ -154,6 +154,9 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
+# Gitlab
+DOMAIN-SUFFIX,gitlab.com
+
 # CodeIum
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codeiumdata.com
