@@ -69,9 +69,6 @@ DOMAIN-SUFFIX,macked.online
 DOMAIN-SUFFIX,macked.store
 # appstorrent.ru
 DOMAIN-SUFFIX,userapi.com
-# ip 相关
-DOMAIN-SUFFIX,myip.com
-DOMAIN-SUFFIX,whoer.com
 # 短信验证码
 DOMAIN-SUFFIX,sms-activate.org
 # 短信验证码
@@ -202,5 +199,9 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,notion.so
 
-# 服务器
-DOMAIN-SUFFIX,nube.sh
+# 在线工具
+DOMAIN-SUFFIX,v1.mk
+
+# ip 相关
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,whoer.com
