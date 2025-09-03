@@ -100,6 +100,8 @@ DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,namecheap.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,tencentcloud.com
+DOMAIN-SUFFIX,edgeone.ai
 
 # ===== 开发 =====
 DOMAIN-SUFFIX,vuejs.org
