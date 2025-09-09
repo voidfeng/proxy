@@ -1,4 +1,8 @@
 # ===== 自定义配置 =====
+
+# CDN
+DOMAIN-SUFFIX,bootstrapcdn.com
+
 # Google
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromium.org
