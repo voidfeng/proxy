@@ -100,12 +100,6 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
 DOMAIN-SUFFIX,sagernet.org
-# 域名商
-DOMAIN-SUFFIX,namecheap.com
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,tencentcloud.com
-DOMAIN-SUFFIX,edgeone.ai
 
 # ===== 开发 =====
 DOMAIN-SUFFIX,vuejs.org
@@ -214,3 +208,13 @@ DOMAIN-SUFFIX,v1.mk
 # ip 相关
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,whoer.com
+
+# 服务器
+bandwagonhost.com
+DOMAIN-SUFFIX,tencentcloud.com
+DOMAIN-SUFFIX,edgeone.ai
+
+# 域名商
+DOMAIN-SUFFIX,namecheap.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,cloudfront.net
