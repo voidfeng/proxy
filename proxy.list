@@ -81,6 +81,10 @@ DOMAIN-SUFFIX,sms-activate.io
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,scdn.co
+
+# Yandex
+DOMAIN-SUFFIX,yandex.com
+
 # 论坛
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,nodeseek.com
