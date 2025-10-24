@@ -149,6 +149,10 @@ DOMAIN-SUFFIX,augmentcode.com
 # CodeBuddy 编辑器
 DOMAIN-SUFFIX,codebuddy.ai
 
+# Kiro 编辑器
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,amazonaws.com
+
 # docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
