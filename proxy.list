@@ -45,8 +45,6 @@ DOMAIN-SUFFIX,intercom.io
 # Copilot AI
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bingapis.com
 # perplexity AI
@@ -205,6 +203,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,cloudflare.com
 # 软件
 # ARC 浏览器
 DOMAIN-SUFFIX,arc.net
