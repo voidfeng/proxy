@@ -10,9 +10,11 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-SUFFIX,android.com
 
 # Flutter
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,dartlang.org
@@ -34,21 +36,23 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,openai.com
+
 # Claude AI
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercom.io
+
 # Copilot AI
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,bingapis.com
+
 # perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
+
 # You AI
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,osano.com
@@ -63,26 +67,29 @@ DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,braze.com
 
-#Dify
+# Dify
 DOMAIN-SUFFIX,dify.ai
 
-#Stripe
+# Stripe
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripecdn.com
 
 # Ollama AI
 DOMAIN-SUFFIX,huggingface.co
+
 # macked
 DOMAIN-SUFFIX,macked.homes
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,macked.online
 DOMAIN-SUFFIX,macked.store
+
 # appstorrent.ru
 DOMAIN-SUFFIX,userapi.com
+
 # 短信验证码
 DOMAIN-SUFFIX,sms-activate.org
-# 短信验证码
 DOMAIN-SUFFIX,sms-activate.io
+
 # spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
@@ -95,22 +102,31 @@ DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,thegearpage.net
+
 # v2
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,imgur.com
+
 # 社交
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
 # wikipedia
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
-# VPN
+
+# VPN / 代理工具
 DOMAIN-SUFFIX,naiyovpn.com
 DOMAIN-SUFFIX,nysubs.xyz
 DOMAIN-SUFFIX,sagernet.org
+DOMAIN-SUFFIX,clashverge.dev
+DOMAIN-SUFFIX,wd-gold.net
+DOMAIN-SUFFIX,wd-gold.com
 
 # ===== 开发 =====
 DOMAIN-SUFFIX,vuejs.org
@@ -132,6 +148,9 @@ DOMAIN-SUFFIX,oxc.rs
 DOMAIN-SUFFIX,tauri.app
 DOMAIN-SUFFIX,tiptap.dev
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,livekit.com
+DOMAIN-SUFFIX,iroh.link
 
 # TRAE 编辑器
 DOMAIN-SUFFIX,trae.ai
@@ -192,6 +211,7 @@ DOMAIN-SUFFIX,ionicframework.com
 
 # Cloudflare
 DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,cloudflare.com
 
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
@@ -203,7 +223,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,cloudflare.com
+
 # 软件
 # ARC 浏览器
 DOMAIN-SUFFIX,arc.net
@@ -226,6 +246,9 @@ DOMAIN-SUFFIX,v1.mk
 # ip 相关
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,whoer.com
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,iplark.com
+DOMAIN-SUFFIX,ping0.cc
 
 # 服务器
 bandwagonhost.com
@@ -239,3 +262,58 @@ DOMAIN-SUFFIX,wawo.wiki
 DOMAIN-SUFFIX,namecheap.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,xelvo.net
+
+# ===== 新增分类 =====
+
+# 苹果服务 (Apple)
+DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,gsas.apple.com
+
+# 加密货币与支付 (Crypto & Finance)
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,dupay.one
+
+# 微软服务 (Microsoft)
+DOMAIN-SUFFIX,onedrive.live.com
+
+# 搜索引擎与资讯 (Search & News)
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,duckduckgo.com
+
+# 媒体与资源 (Media & Torrents)
+DOMAIN-SUFFIX,thepiratebay.org
+
+# 其他 AI 工具
+DOMAIN-SUFFIX,rawchat.cn
+
+# 中国大陆直连 (DIRECT)
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,115vod.com
+DOMAIN-SUFFIX,braycn.com
+DOMAIN-SUFFIX,eatdesk.net
+
+# 其他工具与网站 (Others)
+DOMAIN-SUFFIX,nost-solutions.ru
+DOMAIN-SUFFIX,xiaoxin.best
+DOMAIN-SUFFIX,idcflare.com
+DOMAIN-SUFFIX,seranking.com
+DOMAIN-SUFFIX,takealot.com
+DOMAIN-SUFFIX,ldstatic.com
+DOMAIN-SUFFIX,qazwc.com
+DOMAIN-SUFFIX,awsl.uk
+DOMAIN-SUFFIX,us.ci
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,tribit.com
+
+# 哈曼卡顿
+DOMAIN-SUFFIX,harmankardon.com
+
+# 斯派莎克
+DOMAIN-SUFFIX,spiraxsarco.com
