@@ -292,12 +292,12 @@ DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,rawchat.cn
 
 # 中国大陆直连 (DIRECT)
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,115.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,115vod.com
-DOMAIN-SUFFIX,braycn.com
-DOMAIN-SUFFIX,eatdesk.net
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+DOMAIN-SUFFIX,115.com,DIRECT
+DOMAIN-SUFFIX,netease.com,DIRECT
+DOMAIN-SUFFIX,115vod.com,DIRECT
+DOMAIN-SUFFIX,braycn.com,DIRECT
+DOMAIN-SUFFIX,eatdesk.net,DIRECT
 
 # 其他工具与网站 (Others)
 DOMAIN-SUFFIX,nost-solutions.ru
