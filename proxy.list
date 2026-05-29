@@ -291,14 +291,6 @@ DOMAIN-SUFFIX,thepiratebay.org
 # 其他 AI 工具
 DOMAIN-SUFFIX,rawchat.cn
 
-# 中国大陆直连 (DIRECT)
-DOMAIN-SUFFIX,aliyuncs.com,DIRECT
-DOMAIN-SUFFIX,115.com,DIRECT
-DOMAIN-SUFFIX,netease.com,DIRECT
-DOMAIN-SUFFIX,115vod.com,DIRECT
-DOMAIN-SUFFIX,braycn.com,DIRECT
-DOMAIN-SUFFIX,eatdesk.net,DIRECT
-
 # 其他工具与网站 (Others)
 DOMAIN-SUFFIX,nost-solutions.ru
 DOMAIN-SUFFIX,xiaoxin.best
