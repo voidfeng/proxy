@@ -32,10 +32,33 @@ DOMAIN-SUFFIX,nn.ci
 # Brew
 DOMAIN-SUFFIX,brew.sh
 
-# chatGPT AI
+# OpenAI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,turn.livekit.cloud
+DOMAIN,workos.imgix.net
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,images.workoscdn.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,workos.com
 
 # Claude AI
 DOMAIN-SUFFIX,anthropic.com
@@ -212,6 +235,7 @@ DOMAIN-SUFFIX,ionicframework.com
 # Cloudflare
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
 
 # 公共CDN和公共API
 DOMAIN-SUFFIX,sstatic.net
