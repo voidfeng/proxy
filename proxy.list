@@ -212,6 +212,9 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
+# PHP
+DOMAIN-SUFFIX,getcomposer.org
+
 # Gitlab
 DOMAIN-SUFFIX,gitlab.com
 
