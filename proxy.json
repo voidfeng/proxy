@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "bandwagonhost.com",
+        "openaiapi-site.azureedge.net",
+        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+        "turn.livekit.cloud",
+        "workos.imgix.net"
+      ],
+      "domain_keyword": [
+        "codesandbox"
+      ],
+      "domain_suffix": [
+        "bootstrapcdn.com",
+
+        "chrome.com",
+        "chromium.org",
+        "google.com",
+        "googleapis.com",
+        "googleusercontent.com",
+        "gstatic.com",
+        "appspot.com",
+        "withgoogle.com",
+        "android.com",
+
+        "flutter.dev",
+        "pub.dev",
+        "dartlang.org",
+        "gradle.org",
+
+        "reddit.com",
+        "redditstatic.com",
+        "redditmedia.com",
+        "redd.it",
+
+        "nn.ci",
+
+        "brew.sh",
+
+        "chatgpt.com",
+        "oaistatic.com",
+        "openai.com",
+        "auth0.com",
+        "browser-intake-datadoghq.com",
+        "chat.com",
+        "crixet.com",
+        "client-api.arkoselabs.com",
+        "ct.sendgrid.net",
+        "events.statsigapi.net",
+        "featureassets.org",
+        "featuregates.org",
+        "identrust.com",
+        "images.workoscdn.com",
+        "intercom.io",
+        "intercom.com",
+        "intercomcdn.com",
+        "oaiusercontent.com",
+        "prodregistryv2.org",
+        "sora.com",
+        "statsig.com",
+        "workos.com",
+
+        "anthropic.com",
+        "claude.ai",
+        "claude.com",
+        "intercomassets.com",
+
+        "copilot.microsoft.com",
+        "sydney.bing.com",
+        "bingapis.com",
+
+        "perplexity.ai",
+
+        "you.com",
+        "osano.com",
+        "stytch.com",
+        "useparagon.com",
+        "launchdarkly.com",
+        "plausible.io",
+        "go2sdk.com",
+        "licdn.com",
+        "profitwell.com",
+        "appsflyer.com",
+        "clarity.ms",
+        "braze.com",
+
+        "dify.ai",
+
+        "stripe.com",
+        "stripecdn.com",
+
+        "huggingface.co",
+
+        "macked.homes",
+        "macked.app",
+        "macked.online",
+        "macked.store",
+
+        "userapi.com",
+
+        "sms-activate.org",
+        "sms-activate.io",
+
+        "spotify.com",
+        "spotifycdn.com",
+        "scdn.co",
+
+        "yandex.com",
+
+        "linux.do",
+        "nodeseek.com",
+        "hostloc.com",
+        "thegearpage.net",
+
+        "v2ex.com",
+        "imgur.com",
+
+        "x.com",
+        "twimg.com",
+        "discord.gg",
+        "discord.com",
+        "x.ai",
+        "grok.com",
+
+        "wikipedia.org",
+        "wikimedia.org",
+
+        "naiyovpn.com",
+        "nysubs.xyz",
+        "sagernet.org",
+        "clashverge.dev",
+        "wd-gold.net",
+        "wd-gold.com",
+
+        "vuejs.org",
+        "vueschool.io",
+        "element-plus.org",
+        "element-plus.run",
+        "npmjs.org",
+        "npmjs.com",
+        "unocss.dev",
+        "netlify.app",
+        "pages.dev",
+        "strapi.io",
+        "strapidemo.com",
+        "zerossl.com",
+        "vscode-cdn.net",
+        "serv00.net",
+        "oxc.rs",
+        "tauri.app",
+        "tiptap.dev",
+        "golang.org",
+        "vercel.app",
+        "livekit.com",
+        "iroh.link",
+
+        "trae.ai",
+        "byteoversea.com",
+
+        "cursor.sh",
+        "cursor.com",
+        "cursorapi.com",
+
+        "windsurf.com",
+
+        "zed.dev",
+
+        "augmentcode.com",
+
+        "codebuddy.ai",
+
+        "kiro.dev",
+        "amazonaws.com",
+        "amazonws.com",
+
+        "docker.io",
+        "docker.com",
+
+        "github.io",
+        "ghcr.io",
+        "github.com",
+        "githubassets.com",
+        "githubusercontent.com",
+
+        "getcomposer.org",
+
+        "gitlab.com",
+
+        "codeium.com",
+        "codeiumdata.com",
+
+        "rsshub.app",
+        "follow.is",
+        "folo.is",
+
+        "codepen.io",
+
+        "tiny.cloud",
+
+        "ionic.io",
+        "ionicframework.com",
+
+        "workers.dev",
+        "cloudflare.com",
+        "cloudflare.net",
+
+        "sstatic.net",
+        "back4app.com",
+        "ghproxy.com",
+        "cdpn.io",
+        "filestackapi.com",
+        "jsdelivr.net",
+        "sourceforge.net",
+        "unpkg.com",
+
+        "arc.net",
+
+        "deta.space",
+        "deta.surf",
+
+        "diabrowser.engineering",
+        "segment.io",
+
+        "notionusercontent.com",
+        "notion.so",
+
+        "v1.mk",
+
+        "myip.com",
+        "whoer.com",
+        "ippure.com",
+        "iplark.com",
+        "ping0.cc",
+
+        "tencentcloud.com",
+        "edgeone.ai",
+        "claw.cloud",
+        "clawcloudrun.com",
+        "wawo.wiki",
+
+        "namecheap.com",
+        "godaddy.com",
+        "cloudfront.net",
+        "xelvo.net",
+
+        "gsa.apple.com",
+        "gsas.apple.com",
+
+        "binance.com",
+        "bnbstatic.com",
+        "bitget.com",
+        "coinbase.com",
+        "dupay.one",
+
+        "onedrive.live.com",
+
+        "yahoo.com",
+        "yimg.com",
+        "duckduckgo.com",
+
+        "thepiratebay.org",
+
+        "rawchat.cn",
+
+        "nost-solutions.ru",
+        "xiaoxin.best",
+        "idcflare.com",
+        "seranking.com",
+        "takealot.com",
+        "ldstatic.com",
+        "qazwc.com",
+        "awsl.uk",
+        "us.ci",
+        "pubmatic.com",
+        "tribit.com",
+
+        "harmankardon.com",
+
+        "spiraxsarco.com"
+      ]
+    }
+  ]
+}
